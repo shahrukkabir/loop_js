@@ -4,5 +4,3 @@ As Ersa is learning now, she wants to explore more and more. Tell Ersa to genera
 
  */
 
-
-/*programming hero*/
